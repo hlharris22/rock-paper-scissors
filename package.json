@@ -1,0 +1,29 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rock-paper-scissors.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jsdom": "^16.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlharris22/rock-paper-scissors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hlharris22/rock-paper-scissors/issues"
+  },
+  "homepage": "https://github.com/hlharris22/rock-paper-scissors#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.4"
+  }
+}
